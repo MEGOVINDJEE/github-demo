@@ -1,2 +1,3 @@
 # github-demo
-i am doing for practising 
+this my fist github project 
+author = govind jee 
